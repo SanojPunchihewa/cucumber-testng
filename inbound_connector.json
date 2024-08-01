@@ -39,7 +39,7 @@
          "type":"inbound-endpoint",
          "version":"1.0.2",
          "rank":3,
-         "download_url":"https://github.com/SanojPunchihewa/cucumber-testng/releases/download/v1.0.0/org.apache.synapse.smpp.listen.class-1.0.2-SNAPSHOT.zip",
+         "download_url":"https://github.com/wso2-extensions/esb-inbound-smpp/releases/download/org.apache.synapse.smpp.listen.class-1.0.1/org.apache.synapse.smpp.listen.class-1.0.1.zip",
          "description":"WSO2 Listner Connector for SMS",
          "icon":"amazonsqs-inbound.gif",
          "icon_url":"https://mi-connectors.wso2.com/icons/amazonsqs-inbound.gif"
