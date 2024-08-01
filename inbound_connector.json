@@ -43,6 +43,17 @@
          "description":"WSO2 Listner Connector for SMS",
          "icon":"amazonsqs-inbound.gif",
          "icon_url":"https://mi-connectors.wso2.com/icons/amazonsqs-inbound.gif"
+      },
+      {
+         "name":"DB Event",
+         "id":"org.wso2.carbon.inbound.poll.dbeventlistener.DBEventPollingConsumer",
+         "type":"inbound-endpoint",
+         "version":"1.0.6",
+         "rank":3,
+         "download_url":"https://github.com/SanojPunchihewa/cucumber-testng/releases/download/v1.0.0/org.apache.synapse.poll.dbeventlistener-1.0.6.zip",
+         "description":"WSO2 Listner Connector for DB events",
+         "icon":"amazonsqs-inbound.gif",
+         "icon_url":"https://mi-connectors.wso2.com/icons/amazonsqs-inbound.gif"
       }
    ]
 }
