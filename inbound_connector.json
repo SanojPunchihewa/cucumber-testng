@@ -67,13 +67,13 @@
          "icon_url":"https://mi-connectors.wso2.com/icons/amazonsqs-inbound.gif"
       },
       {
-         "name":"Twitter",
-         "id":"org.wso2.carbon.inbound.twitter.poll.TwitterStreamData",
+         "name":"CDC",
+         "id":"org.wso2.carbon.inbound.cdc.CDCPollingConsumer",
          "type":"inbound-endpoint",
-         "version":"1.0.2",
+         "version":"1.0.0",
          "rank":3,
-         "download_url":"https://github.com/SanojPunchihewa/cucumber-testng/releases/download/v1.0.0/org.apache.synapse.twitter.poll.class-1.0.1-SNAPSHOT.zip",
-         "description":"WSO2 Listner Connector for Twitter",
+         "download_url":"https://github.com/SanojPunchihewa/cucumber-testng/releases/download/v1.0.0/org.apache.synapse.cdc.poll-1.0.0.zip",
+         "description":"WSO2 Listner Connector for CDC",
          "icon":"amazonsqs-inbound.gif",
          "icon_url":"https://mi-connectors.wso2.com/icons/amazonsqs-inbound.gif"
       }
